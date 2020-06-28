@@ -1,0 +1,5 @@
+[pytest:run]
+omit = tests/*
+
+[html]
+directory = docs/cov_html
